@@ -1,2 +1,2 @@
-instagrapi==1.17.3
+instagrapi
 Pillow>=9.0.0
